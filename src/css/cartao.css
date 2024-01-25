@@ -31,6 +31,8 @@
 .cartao-pokemon .cartao-imagem{
     width: 350px;
     height: 350px;
+    display: flex;
+    justify-content: center;
 }
 
 .cartao-pokemon img{
@@ -90,4 +92,8 @@
 
 .tipo-dragao{
     background-color: #c29791;
+}
+
+.tipo-secreto{
+    background-color: #353538;
 }
